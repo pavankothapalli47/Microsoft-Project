@@ -17,7 +17,7 @@ https://purple-hill-05ef32610.2.azurestaticapps.net
 
 # Demo video
 
-In this video, I have shown the Azure technology which I have used and the website which I have made by deploying it to the azure server. 
+In this video, I have shown the Azure technology which I have used and the website which I have created which was also deployed into the azure server. 
 
 https://user-images.githubusercontent.com/99778112/209861679-1b1e871d-45c9-4c77-8aa6-ed78919a6cbd.mp4
 
