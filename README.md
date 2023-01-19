@@ -5,7 +5,11 @@ This is a project created for Microsoft internship.
 # Azure link 
 https://purple-hill-05ef32610.2.azurestaticapps.net
 
-# Screenshots
+# Screenshots![Screenshot (19)](https://user-images.githubusercontent.com/99778112/213475380-2039cd61-3e0e-4561-8387-88fb78a7999e.png)
+
+![Screenshot (20)](https://user-images.githubusercontent.com/99778112/213475433-9e7402e0-8a22-41b9-9930-c85405814c1d.png)
+
+![Screenshot (21)](https://user-images.githubusercontent.com/99778112/213475462-c25db79b-fc10-4773-a0fc-2721468f9752.png)
 
 ![Screenshot (10)](https://user-images.githubusercontent.com/99778112/209846054-a790d636-a533-4028-9a23-874394ad6a96.png)
 
